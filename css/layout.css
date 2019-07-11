@@ -23,5 +23,19 @@
 }
 
 /* Positioning Classes */
+.col-1{
+  width: 63.32%;
+  float: left;
+  margin: 0.66%;
+}
 
+.col-2{
+  width: 31%;
+  float: left;
+  margin: 0.66%
+}
+
+.details-section{
+  column-count: 3;
+}
 
